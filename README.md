@@ -19,7 +19,8 @@
 				"url": "https://instagram.com/<1rohityadav>"
 			}
 		]
-	},
+		},
+	
 	
 	"education": [{
 		"institution": "Indian Institute of Information technology,kota",
